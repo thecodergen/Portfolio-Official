@@ -1,0 +1,4 @@
+- [x] Move navbar JSX in app/page.tsx to after the hero section.
+- [ ] Update navbar CSS in app/globals.css to remove fixed positioning and center horizontally.
+- [ ] Adjust body padding in app/globals.css to remove top padding.
+- [ ] Test the layout and responsiveness.
